@@ -1,0 +1,60 @@
+{
+ "name": "reactor",
+ "children": [
+  {
+   "name": "Уровень мерник поз. 1",
+   "children": [
+    {"name": "Mernik 1 - 06.06.2013", "size": 85.5},
+    {"name": "Mernik 1 - 07.06.2013", "size": 76},
+    {"name": "Mernik 1 - 08.06.2013", "size": 62.5},
+    {"name": "Mernik 1 - 09.06.2013", "size": 49},
+	{"name": "Mernik 1 - 10.06.2013", "size": 43.6},
+    {"name": "Mernik 1 - 11.06.2013", "size": 43.6}
+   ]
+  },
+  {
+   "name": "Уровень мерник поз. 2",
+   "children": [
+    {"name": "Mernik 2 - 06.06.2013", "size": 73.3},
+    {"name": "Mernik 2 - 07.06.2013", "size": 64.3},
+    {"name": "Mernik 2 - 08.06.2013", "size": 50.8},
+    {"name": "Mernik 2 - 09.06.2013", "size": 43.6},
+	{"name": "Mernik 2 - 10.06.2013", "size": 43.6},
+    {"name": "Mernik 2 - 11.06.2013", "size": 43.6}
+   ]
+  },
+  {
+   "name": "Уровень в реакторе",
+   "children": [
+    {"name": "Reaktor.Uroven - 06.06.2013", "size": 0},
+    {"name": "Reaktor.Uroven - 07.06.2013", "size": 9.6},
+    {"name": "Reaktor.Uroven - 08.06.2013", "size": 24},
+    {"name": "Reaktor.Uroven - 09.06.2013", "size": 35.53},
+	{"name": "Reaktor.Uroven - 10.06.2013", "size": 38.83},
+    {"name": "Reaktor.Uroven - 11.06.2013", "size": 38.83}
+   ]
+  },
+  {
+   "name": "Температура в реакторе",
+   "children": [
+    {"name": "Reaktor.Temp - 06.06.2013", "size": 20.59},
+    {"name": "Reaktor.Temp - 07.06.2013", "size": 27.98},
+    {"name": "Reaktor.Temp - 08.06.2013", "size": 12.45},
+    {"name": "Reaktor.Temp - 09.06.2013", "size": 15.69},
+	{"name": "Reaktor.Temp - 10.06.2013", "size": 16.64},
+    {"name": "Reaktor.Temp - 11.06.2013", "size": 16.64}
+   ]
+  },
+  {
+   "name": "Давление в реакторе",
+   "children": [
+    {"name": "Reaktor.Pressure - 06.06.2013", "size": 0},
+    {"name": "Reaktor.Pressure - 07.06.2013", "size": 4.07},
+    {"name": "Reaktor.Pressure - 08.06.2013", "size": 4.05},
+    {"name": "Reaktor.Pressure - 09.06.2013", "size": 5.69},
+	{"name": "Reaktor.Pressure - 10.06.2013", "size": 6.16},
+    {"name": "Reaktor.Pressure - 11.06.2013", "size": 6.16}
+   ]
+  }
+ ]
+}

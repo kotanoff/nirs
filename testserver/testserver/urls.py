@@ -1,12 +1,14 @@
 from django.conf.urls import patterns, include, url
+from django.conf import settings
 
 # Uncomment the next two lines to enable the admin:
-# from django.contrib import admin
-# admin.autodiscover()
+from django.contrib import admin
+admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'testserver.views.home', name='home'),
+    url(r'^$', 'flattree.views.home', name='home'),
+    (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root':'./static/'}),
     # url(r'^testserver/', include('testserver.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:

@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	font: 11pt Segoe UI;
+}
+#files_d{
+	margin-top: 10px;
+	width:50%;
+}
+#vis{
+	position: absolute;
+	width: 95%;
+	margin-top: 40px;
+}
+
+body {
+	background-color:#FFFBDD;
+}
+
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
